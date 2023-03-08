@@ -13,6 +13,8 @@ The repository contains the following folders:
 
 -   `reversed-sorting`: This folder contains the solution to sort a vector of integers in non-increasing order such that negative integers come before non-negative integers, and non-negative integers are sorted in increasing order.
 
+-   `sum-of-pairs-unordered-map`: Contains code that aims to find a pair of integers in a given vector of integers that have the same sum as another pair of integer in the same vector. It uses an unordered map to store the sums of all possible pairs of integers in the vector and checks for any collisions in order to identify pairs with the same sum.
+
 ## Dependencies
 
 ### Python
