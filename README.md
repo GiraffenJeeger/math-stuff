@@ -3,7 +3,7 @@
 
 ## Overview
 
-This repository contains my solutions to complex mathematical problems written mostly in C++ and Python. The problems involve various branches of mathematics such as calculus, linear algebra, differential equations, and number theory. The solutions are solved using various mathematical techniques in conjunction with programming.
+This repository contains my solutions to complex mathematical problems mostly written in C++ and Python. The problems involve various branches of mathematics such as calculus, linear algebra, differential equations, and number theory. The solutions are solved using various mathematical techniques in conjunction with programming.
 
 ## Contents
 
