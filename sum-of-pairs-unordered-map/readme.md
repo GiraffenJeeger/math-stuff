@@ -3,7 +3,7 @@ The problem is to find a pair of integers in a given set S = {a1, a2, ..., an} o
 
 ## Solution Overview
 
-The goal of this code is to find a pair of integers in a given vector of integers that have the same sum as another integer in the same vector. The solution approach taken in the `hasSum function` involves iterating over all possible pairs of integers in the vector and storing the sums of each pair in an unordered map. The function takes a vector of integers nums as input, and returns a boolean value indicating whether or not a valid solution was found. Within the function, a nested loop is used to iterate over all possible pairs of integers in nums. For each pair, the sum of the two integers is calculated and stored in an unordered map sums.
+The solution approach taken in the `hasSum function` involves iterating over all possible pairs of integers in the vector and storing the sums of each pair in an unordered map. The function takes a vector of integers nums as input, and returns a boolean value indicating whether or not a valid solution was found. Within the function, a nested loop is used to iterate over all possible pairs of integers in nums. For each pair, the sum of the two integers is calculated and stored in an unordered map sums.
 
 If a sum is found that has already been seen before, the program checks to see if the corresponding indices of the two pairs are different, indicating that a valid solution has been found. If no such solution exists, the program outputs a message indicating that no such sum was found.
 
