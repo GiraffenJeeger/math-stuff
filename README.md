@@ -44,7 +44,7 @@ To run a C++ solution, first compile the corresponding C++ file using the C++ co
 
 `g++ -o problem_xy problem_xy.cpp` 
 
-This will create an executable file `problem3` that you can run:
+This will create an executable file `problem_xy.exe` that you can run:
 
 `./problem_xy` 
 
